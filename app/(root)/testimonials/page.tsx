@@ -17,7 +17,7 @@ const page = () => {
               </span>
             </h2>
             <img
-              alt='testimonial'
+              alt='Manu'
               className='inline-block object-cover object-center w-20 h-20 mt-8 rounded-full'
               src='https://media.licdn.com/dms/image/D5603AQHQXM5XlUqjTg/profile-displayphoto-shrink_200_200/0/1705721021390?e=1718841600&v=beta&t=nW1eygeIkNHMBjUpd35bqaRvLI0YnRlmjXda9v4AbY4'
             />
@@ -32,7 +32,7 @@ const page = () => {
               <span className='font-semibold text-black lg:mb-0'>TCS </span>
             </h2>
             <img
-              alt='testimonial'
+              alt='Prajwal'
               className='inline-block object-cover object-center w-20 h-20 mt-8 rounded-full'
               src='https://media.licdn.com/dms/image/D5603AQHt6jez8Jy4XA/profile-displayphoto-shrink_200_200/0/1711940673464?e=1718841600&v=beta&t=0WsfOloXduBcUexcYjowq3yYXRxvbUIqUdFNBRPWl2I'
             />
@@ -43,15 +43,15 @@ const page = () => {
               Happenify! The user-friendly interface
             </p>
             <h2 className='mt-4 text-xs font-semibold tracking-widest text-blue-500 uppercase'>
-              Narendra Modi,{' '}
+              Varun S Athreya,{' '}
               <span className='font-semibold text-black lg:mb-0'>
-                PM India{' '}
+                ContentStack{' '}
               </span>
             </h2>
             <img
-              alt='testimonial'
+              alt='Varun'
               className='inline-block object-cover object-center w-20 h-20 mt-8 rounded-full'
-              src='https://media.licdn.com/dms/image/C4D03AQHHSwZyheu1UQ/profile-displayphoto-shrink_200_200/0/1662703260529?e=1718841600&v=beta&t=Qy6ZHGIT68Q4TGtlJ3Fi7nxe_h4C-Txe8bNqYP2KnJs'
+              src='https://media.licdn.com/dms/image/D5603AQGON4a5-BXIZw/profile-displayphoto-shrink_800_800/0/1701156182059?e=1724284800&v=beta&t=9bZY3Roz2mJWDxE3GnbA0VIOY4pyVKTrMBuDw6K5cto'
             />
           </div>
         </div>
